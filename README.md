@@ -1,5 +1,18 @@
 ## Bảng phân công công việc
-
+- Tìm nguồn phân tích dữ liệu - 357
+- Khám phá dữ liệu
+  - [...]:
+  - [...]:
+- Tiền xử lí dữ liệu
+  - vd1: 634
+  - vd2:
+  - vd3:
+- Đặt câu hỏi
+  - [...] :633
+  - [...] :357
+- Trả lời câu hỏi
+  - [...] :219
+  - [...] :634
 
 
 
