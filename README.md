@@ -1,21 +1,17 @@
 ## Bảng phân công công việc
 - Tìm nguồn phân tích dữ liệu - 357
-- Khám phá dữ liệu
-  - [...]:
-  - [...]:
+- Khám phá dữ liệu: 633, 357
 - Tiền xử lí dữ liệu
   - vd1: 634
-  - vd2:
+  - vd2: 633
   - vd3: 633
-  - vd4:
+  - vd4: 634
   - vd5: 634
-- Đặt câu hỏi
-  - [...] :633
-  - [...] :357
+- Đặt câu hỏi: 633, 357
 - Trả lời câu hỏi
-  - [...] :219
+  - [2,5,6,7] :219
   - [1,3,11] :634
-
+- Giải thích và nhận xét: 633
 
 
 ### Lưu ý khi sử dụng github
