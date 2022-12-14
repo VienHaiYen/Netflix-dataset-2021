@@ -6,12 +6,12 @@
   - vd2: 633
   - vd3: 633
   - vd4: 634
-  - vd5: 634
+- Khám phá sau tiền xử lý: 357
 - Đặt câu hỏi: 633, 357
 - Trả lời câu hỏi
   - [2,5,6,7] :219
   - [1,3,11] :634
-- Giải thích và nhận xét: 633
+- Giải thích và nhận xét: 633, 357
 
 
 ### Lưu ý khi sử dụng github
